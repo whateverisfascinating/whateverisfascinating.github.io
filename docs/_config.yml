@@ -19,9 +19,10 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Whatever is fascinating
+author: Written by an Italian mathematician
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Whatever is fascinating... There is a pun in the title. I wish to write "all the things that" (aka "whatever") I found fascinating somewhere on an internet blog, but also, you know, pretty much "anything" ("whatever") can be fascinating, if you have the right prospective..
+  Whatever is fascinating... Sit back, relax, and enjoy reading...
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb

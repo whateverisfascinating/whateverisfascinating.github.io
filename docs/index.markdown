@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+There is a pun in the title. I wish to write "all the things that" (aka "whatever") I found fascinating somewhere on an internet blog, but also, you know, pretty much "anything" ("whatever") can be fascinating, if you have the right prospective.

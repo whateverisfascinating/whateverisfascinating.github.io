@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Who am I? And my current blog theme"
-date:   2026-02-01 16:43:16 +0100
+date:   2026-02-01 17:00:16 +0100
 ---
 First blog post, YAY!
 I like the word YAY, it is perfectly symmetrical.
@@ -28,6 +28,8 @@ I can change the minima Jekyll theme directly from the corresponding folder on m
 Anyway, GitHub can provide me with a strong backup, so YAY for that!
 
 Thank you for your attention and have a great rest of your day.
+
+---
 
 Possible future posts:
 - fonts,
